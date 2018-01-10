@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 09 19:33:10 CST 2018
+http\://uk.maven.org/maven2/.lastUpdated=1515497590879
+http\://118.178.238.86\:8081/repository/maven-releases/.error=Could not transfer artifact com.moxie.commons\:commons-utils\:jar\:sources\:1.2-20180105.082056-15 from/to xinbang-releases (http\://118.178.238.86\:8081/repository/maven-releases)\: Failed to transfer file\: http\://118.178.238.86\:8081/repository/maven-releases/com/moxie/commons/commons-utils/1.2-SNAPSHOT/commons-utils-1.2-20180105.082056-15-sources.jar. Return code is\: 400 , ReasonPhrase\:Bad Request.
+http\://118.178.238.86\:8081/repository/maven-snapshots/.lastUpdated=1515497588458
+http\://118.178.238.86\:8081/repository/maven-snapshots/.error=
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://118.178.238.86\:8081/repository/maven-public/.lastUpdated=1515497588553
+bc3b9cc710d748c11c30728d4a0eb717bb5db2ca@default-xinbang-releases-http\://118.178.238.86\:8081/repository/maven-releases/.lastUpdated=1515497588519
+http\://uk.maven.org/maven2/.error=
+http\://118.178.238.86\:8081/repository/maven-public/.error=
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1515497589704
